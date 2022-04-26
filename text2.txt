@@ -1,0 +1,4 @@
+dnf search openjdk
+sudo dnf install <openjdk-package-name>
+
+java -jar jenkins.war
