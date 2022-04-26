@@ -1,0 +1,3 @@
+jenkins > manage plugins > search > Github integration
+create Github reository
+open new item in jenkins > freestyle project
