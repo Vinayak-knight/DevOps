@@ -1,0 +1,59 @@
+Q1.To Understand the concept of DevOps with related technologies.
+
+Write the names of open source tools and no of phases of DevOps
+
+1. Git
+It is a free and open-source tool it is software for tracking changes in any set of files, usually
+used for coordinating work among programmers collaboratively developing source code during
+software development.
+
+2. Jenkins
+Jenkins is an automation server. It is an open-source tool written in Java. It helps many projects
+in automating, building, and deploying.
+Key features
+● It helps in distributing the work on multiple machines and platforms.
+● Supported operating systems are Windows, Mac OS X, and UNIX.
+
+3. Docker
+Docker is an open-source containerization platform. It enables developers to package
+applications into containers. It can be used to package the application (for example, WAR file)
+along with the dependencies to be used for deploying in different environments.
+
+4. Ansible
+This open-source tool provides software-related services like application deployment,
+configuration management, etc.
+
+Key features
+
+● It provides agentless architecture.
+● It is powerful because of its workflow. ● It is simple and easy to use.
+
+1. Plan: In this stage, teams identify the business requirement and collect end-user
+feedback. They create a project roadmap to maximize the business value and deliver
+the desired product during this stage.
+
+2. Code: Code development takes place at this stage. The development teams use
+some tools and plugins like Git to streamline the development process, which helps
+them avoid security flaws and lousy coding practices.
+
+3. Build: In this stage, once developers finish their task, they commit the code to the
+shared code repository using build tools like Maven and Gradle.
+
+4. Test: Once the build is ready, it is deployed to the test environment first to perform
+several types of testing like user acceptance test, security test, integration testing,
+performance testing, etc., using tools like JUnit, Selenium, etc., to ensure software
+quality.
+
+5. Release: The build is ready to deploy in the production environment at this phase.
+Once the build passes all tests, the operations team schedules the releases or deploys
+multiple releases to production, depending on the organizational needs.
+
+6. Deploy: In this stage, Infrastructure-as-Code helps build the production
+environment and then releases the build with the help of different tools.
+
+7. Operate: The release is live now to use by customers. The operations team at this
+stage takes care of server configuring and provisioning using tools like Chef.
+
+Q2.Install and configure Jenkins with necessary plugins.
+-->You will be given .war file of Jenkins.You install it and install
+few plugins also
